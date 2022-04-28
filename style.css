@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+}
+
+a{
+    background-color: white;
+    width: 300px;
+    border-radius: 20px !important;
+    color: black;
+    font-weight:bolder !important;
+}
